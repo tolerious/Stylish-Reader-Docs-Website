@@ -3,23 +3,26 @@
 layout: home
 
 hero:
-  name: "English Burning Website"
-  text: "Official Website for English Burning App."
-  tagline: My great project tagline
+  name: "燃烧吧，英语"
+  text: ""
+  tagline: Stay Hungry, Stay Foolish
+  image:
+    src: /src/public/fuiyoh-full.JPG
+    alt: VitePress
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 使用教程
+      link: /src/how-to-use
+    - theme: brand
+      text: 开始使用
+      link: https://app.englishburning.com
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 权威词典释义
+    details: 单词，短语，音标，例句等释义源自 Cambridge Dictionary 权威词典
+  - title: Flash Card 强劲助力
+    details: 单词卡片功能，帮助你进行每日复习，加深单词印象
+  - title: 迅速组建“词伙”，告别哑巴英语
+    details: 查询单词的同时，可以便捷的添加到单词组，让你不惧口语！
 ---
 
