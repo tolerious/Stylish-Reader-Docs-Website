@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "English Burning Website",
   description: "Official Website for English Burning App.",
+  outDir: './build/English-Burning-Website-Dist',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
