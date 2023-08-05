@@ -2,4 +2,4 @@ docs/.vitepress/cache/*
 docs/.vitepress/dist/*
 node_modules
 .pnpm-store
-docs/build/*
+docs/build/

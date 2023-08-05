@@ -6,7 +6,6 @@ export default defineConfig({
   description: "燃烧吧英语，官方网站，英语学习，背单词",
   srcDir: "./src",
   outDir: "./build/English-Burning-Website-Dist",
-  assetsDir: 'static',
   lastUpdated: true,
   themeConfig: {
     logo: "/fuiyoh-full.JPG",
