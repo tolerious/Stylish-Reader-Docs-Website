@@ -7,7 +7,7 @@ hero:
   text: ""
   tagline: Stay Hungry, Stay Foolish
   image:
-    src: /src/public/fuiyoh-full.JPG
+    src: /public/fuiyoh-full.JPG
     alt: VitePress
   actions:
     - theme: alt

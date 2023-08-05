@@ -7,7 +7,7 @@ export default defineConfig({
   outDir: "./build/English-Burning-Website-Dist",
   lastUpdated: true,
   themeConfig: {
-    logo: "/src/public/fuiyoh-full.JPG",
+    logo: "/public/fuiyoh-full.JPG",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "首页", link: "/" },
