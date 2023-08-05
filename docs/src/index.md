@@ -1,18 +1,19 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+title: 首页
 
 hero:
   name: "燃烧吧，英语"
   text: ""
   tagline: Stay Hungry, Stay Foolish
   image:
-    src: /public/fuiyoh-full.JPG
+    src: /fuiyoh-full.JPG
     alt: VitePress
   actions:
     - theme: alt
       text: 使用教程
-      link: /src/how-to-use
+      link: /how-to-use
     - theme: brand
       text: 开始使用
       link: https://app.englishburning.com

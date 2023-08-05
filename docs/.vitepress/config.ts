@@ -4,20 +4,22 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "燃烧吧，英语",
   description: "燃烧吧英语，官方网站，英语学习，背单词",
+  srcDir: "./src",
   outDir: "./build/English-Burning-Website-Dist",
+  assetsDir: 'static',
   lastUpdated: true,
   themeConfig: {
-    logo: "/public/fuiyoh-full.JPG",
+    logo: "/fuiyoh-full.JPG",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "首页", link: "/" },
-      { text: "如何使用", link: "/src/how-to-use" },
+      { text: "如何使用", link: "/how-to-use" },
     ],
 
     sidebar: [
       {
         text: "内容",
-        items: [{ text: "如何使用", link: "/src/how-to-use" }],
+        items: [{ text: "如何使用", link: "/how-to-use" }],
       },
     ],
 
