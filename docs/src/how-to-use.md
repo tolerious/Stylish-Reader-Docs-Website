@@ -22,4 +22,30 @@ English Burning(燃烧吧，英语) 应用，旨在方便英语学习爱好者�
 
 注册成功后即可登陆进入主页。
 
+## 建立“词组”
+
 <img src="/homepage.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">
+在首页中点击 "Manage Group"，进入到词组管理页面。
+<img src="/manage-group.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">
+输入词组名称，点击"Confirm"即可建立词组。
+<img src="/create-group.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">
+
+## 设置默认词组
+在首页通过点击"Settings"按钮儿，进入到用户设置页面，设置添加单词时的默认词组。
+<img src="/settings.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">
+
+## 添加单词
+在首页点击"Record Word"按钮儿，进入到添加单词页面。
+<img src="/add-word.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">
+<img src="/search-word-result.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">
+输入查询单词后，点击"Search"按钮儿，即可查询该单词的中英释义，短语用法，例句等内容，同时你会听到该单词的发音，释义均来自权威词典 Cambridge Dictionary.
+> 添加单词的时候，建议通过电脑网页版添加，会更加快捷。
+点击页面上的"Add Word"按钮儿，就可以直接将该单词添加到响应的词组中了。
+
+## 复习词组中的单词
+在首页中点击"Manage Group"按钮儿，进入到词组列表界面，点击对应词组的"Cycling"按钮儿，系统会自动循环播放该词组中所有的单词。
+<img src="/group-list.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">
+<img src="/group-flash-card.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">
+点击Flash Card，就可以看到该单词对应的中英释义，短语用法以及例句。
+
+
