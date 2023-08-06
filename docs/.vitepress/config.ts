@@ -13,6 +13,7 @@ export default defineConfig({
     nav: [
       { text: "首页", link: "/" },
       { text: "如何使用", link: "/how-to-use" },
+      { text: "About Me", link: "/about-me" },
     ],
 
     sidebar: [
