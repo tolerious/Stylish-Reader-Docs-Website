@@ -18,6 +18,8 @@ English Burning(燃烧吧，英语) 应用，旨在方便英语学习爱好者�
 <img src="/login.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">
 
 访问网站链接，将会跳转到登陆页，第一次使用的用户需要进行注册。
+> 根据国家工信部以及网安要求英语类学习必须采用实名制手机注册，所以此处需要用手机号接收验证码后进行注册。用户名和密码，均采用了加密手段进行保护，无需担心会泄露。
+
 <img src="/register.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">
 
 注册成功后即可登陆进入主页。

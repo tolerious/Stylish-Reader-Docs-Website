@@ -3,3 +3,6 @@ docs/.vitepress/dist/*
 node_modules
 .pnpm-store
 docs/build/
+.DS_Store
+docs/.DS_Store
+docs/src/.DS_Store

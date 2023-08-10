@@ -19,7 +19,10 @@ export default defineConfig({
     sidebar: [
       {
         text: "内容",
-        items: [{ text: "如何使用", link: "/how-to-use" }],
+        items: [
+          { text: "如何使用", link: "/how-to-use" },
+          { text: "添加屏幕快捷方式", link: "/add-icon-to-screen" },
+        ],
       },
     ],
 
