@@ -31,7 +31,17 @@ English Burning(燃烧吧，英语) 应用，旨在方便英语学习爱好者�
 <img src="/manage-group.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">
 输入词组名称，点击"Confirm"即可建立词组。
 <img src="/create-group.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">
+点击"Settings"按钮儿，即可进入到词组详情与设置页面。
+<img src="/group-settings.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">
 
+- 在"Media"栏中输入该词组对应的视频链接，多个视频链接以逗号分隔。
+- 在"Article"栏中输入该词组对应的文章链接，多篇文章以逗号分隔。
+- "Public"开关代表，你是否愿意分享你的词组到"Words Square"即词组广场，让所有用户都能够看到你的词组，一起学习。
+
+## 词组广场
+<img src="/words-square.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">
+
+在首页点击“Words Square”选项卡，即可进入到“单词广场”页面，看到所有来自其它用户分享的单词。点击每个词组，就可以看到该词组的详情，例如该词组对应的视频，音频，或者是对应的文章，加深对该词组的记忆。
 ## 设置默认词组
 在首页通过点击"Settings"按钮儿，进入到用户设置页面，设置添加单词时的默认词组。
 <img src="/settings.png" style="width:80%;text-align:center;border:1px solid #eeeeee;">

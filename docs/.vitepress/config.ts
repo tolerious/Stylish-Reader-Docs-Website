@@ -7,6 +7,17 @@ export default defineConfig({
   srcDir: "./src",
   outDir: "./build/English-Burning-Website-Dist",
   lastUpdated: true,
+  sitemap: {
+    hostname: "https://englishburning.com",
+    lastmodDateOnly: true,
+    transformItems: (items) => {
+      items.push({
+        url: "/",
+        changefreq: "daily",
+        priority: 0.9,
+      });
+    },
+  },
   themeConfig: {
     logo: "/fuiyoh-full.JPG",
     // https://vitepress.dev/reference/default-theme-config
