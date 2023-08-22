@@ -3,7 +3,8 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "燃烧吧，英语",
-  description: "燃烧吧英语,托福，雅思,英语学习,背单词,零基础,学英语,英语口语,英语听力",
+  description:
+    "燃烧吧英语,托福，雅思,英语学习,背单词,零基础,学英语,英语口语,英语听力",
   srcDir: "./src",
   outDir: "./build/English-Burning-Website-Dist",
   lastUpdated: true,
@@ -24,7 +25,7 @@ export default defineConfig({
     nav: [
       { text: "首页", link: "/" },
       { text: "如何使用", link: "/how-to-use" },
-      { text: "About Me", link: "/about-me" },
+      { text: "❤️关于作者", link: "/about-me" },
     ],
 
     sidebar: [
