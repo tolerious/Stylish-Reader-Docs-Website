@@ -22,3 +22,7 @@ description: 背单词,英语学习,英语
   <img src="/share-03.png" style="width:50%;text-align:center;border:1px solid #eeeeee;">
 
 - 在主屏幕上就可以看到软件的 icon 快捷方式了，下次就可以在主屏幕上直接点击这个快捷方式进入到软件。
+
+## Android
+
+安卓手机具体的添加方式可以参考[这篇文章](https://zhuanlan.zhihu.com/p/33320627)。
