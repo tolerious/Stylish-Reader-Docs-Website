@@ -1,6 +1,7 @@
 import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
+
 export default defineConfig({
   title: "燃烧吧，英语",
   description:
@@ -26,10 +27,14 @@ export default defineConfig({
       { text: "首页", link: "/" },
       {
         text: "🥳如何学英语",
-        link: "/how-to-learn-english",
+        // link: "/how-to-learn-english",
         items: [
+          { text: "如何学习英语", link: "/how-to-learn-english" },
           { text: "单词篇", link: "/how-to-learn-vocabulary" },
           { text: "听力篇", link: "/how-to-learn-listening" },
+          { text: "语法篇", link: "/how-to-learn-grammar" },
+          { text: "口语篇", link: "/how-to-learn-speaking" },
+          { text: "学习资源推荐", link: "/learning-resource-recommend" },
         ],
       },
       {
@@ -78,7 +83,7 @@ export default defineConfig({
           link: "/how-to-learn-speaking",
         },
         {
-          text: "英语学习资源推荐",
+          text: "学习资源推荐",
           link: "/learning-resource-recommend",
         },
       ],
