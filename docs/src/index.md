@@ -8,7 +8,7 @@ hero:
   text: ""
   tagline: Stay Hungry, Stay Foolish
   image:
-    src: /fuiyoh-full.JPG
+    src: /fuiyoh-circle.jpg
     alt: ''
   actions:
     - theme: alt
