@@ -6,8 +6,8 @@ description: 背单词,英语学习,英语
 
 # An Introduction
 
-<video controls style="width:100%;">
-  <source src="https://media.englishburning.com/bec/english-at-work/An%20Introduction.mov" type="video/webm" />
+<video controls style="width:100%;" autoplay>
+  <source src="https://media.englishburning.com/bec/english-at-work/An%20Introduction.mov"/>
 </video>
 
 ::: warning 单词复习
