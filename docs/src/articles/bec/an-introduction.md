@@ -6,9 +6,7 @@ description: 背单词,英语学习,英语
 
 # An Introduction
 
-<video controls style="width:100%;" autoplay>
-  <source src="https://media.englishburning.com/bec/english-at-work/An%20Introduction.mov"/>
-</video>
+> [视频链接](https://www.xiaohongshu.com/explore/64e6025b000000000a0181b8)
 
 ::: warning 单词复习
 单词复习请<ins>[访问 APP 中的“单词广场”](https://app.englishburning.com)</ins>查看。

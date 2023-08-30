@@ -4,11 +4,10 @@ title: The Interruption
 description: 商务英语,零基础学英语
 ---
 
-# An Introduction
+# The Interruption
 
-<video controls style="width:100%;" autoplay>
-  <source src="https://media.englishburning.com/bec/english-at-work/The%20Interruption.mp4"/>
-</video>
+> [视频链接](https://www.xiaohongshu.com/explore/64e74a0c000000001700e45d)
+
 
 ::: warning 单词复习
 单词复习请<ins>[访问 APP 中的“单词广场”](https://app.englishburning.com)</ins>查看。
