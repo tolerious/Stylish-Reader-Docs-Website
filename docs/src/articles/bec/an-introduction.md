@@ -11,7 +11,7 @@ description: 背单词,英语学习,英语
 </video>
 
 ::: warning 单词复习
-单词复习请[访问 APP 中的“单词广场”](https://app.englishburning.com)查看。
+单词复习请<ins>[访问 APP 中的“单词广场”](https://app.englishburning.com)</ins>查看。
 :::
 
 Meet **Anna**, **Paul**, Denise and **Tom**.
