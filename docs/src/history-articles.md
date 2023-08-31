@@ -16,6 +16,7 @@ description: 背单词,英语学习,英语
 - [An introduction](./articles/bec/an-introduction.md)
 - [The interview](./articles/bec/the-interview.md)
 - [The interruption](./articles/bec/the-interruption.md)
+- [The Crisis](./articles/bec/the-crisis.md)
 
 ## 生活英语
 
