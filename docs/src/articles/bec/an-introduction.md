@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: An introduction
-description: 背单词,英语学习,英语
+description: 英语学习,零基础学英语,英语听力,英语口语,雅思,托福,出国留学
 ---
 
 # An Introduction
