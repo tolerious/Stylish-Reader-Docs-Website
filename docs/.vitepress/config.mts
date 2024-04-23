@@ -41,7 +41,15 @@ export default defineConfig({
         text: "使用教程",
         link: "/how-to-use",
       },
-      { text: "历史文章", link: "/history-articles" },
+      {
+        text: "BEC商务英语",
+        items: [
+          {
+            text: "Noa Website",
+            link: "/bec-noa",
+          },
+        ],
+      },
       { text: "❤️关于作者", link: "/about-me" },
     ],
 
