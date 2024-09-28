@@ -1,4 +1,4 @@
-# English-Burning-Website
+# Stylish-Reader-Docs
 
-Official Website for English Burning APP(will be changed to Stylish Reader later).
-![alt text](./docs/src/public/screen-shot.png)
+Official document website for `Stylish Reader`.
+![alt text](./docs/src/public/website-homepage.png)
