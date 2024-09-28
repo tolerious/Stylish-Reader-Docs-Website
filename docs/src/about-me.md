@@ -13,5 +13,5 @@ description: 背单词,英语学习,英语
 
 一个人学习太单调？
 
-加入“燃烧吧，英语”官方互助群吧~
+加入“Stylish Reader，英语”官方互助群吧~
 <img src="/wechat.png" style="width:50%">
