@@ -4,7 +4,7 @@ layout: home
 title: 首页
 
 hero:
-  name: "燃烧吧，英语"
+  name: "Stylish Reader"
   text: ""
   tagline: Stay Hungry, Stay Foolish
   image:
